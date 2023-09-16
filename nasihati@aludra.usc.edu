@@ -1,0 +1,435 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+    <!--- Basic Page Needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>Setareh Nasihati Gilani</title>
+    <meta name="description" content="I am a PhD student, software engineer, and technology enthusiast. I strive for excellence and am driven by the desire to create technologies that solve real problems. Between my industrial and academic experiences, I have had the opportunity to work with many brilliant engineers and scientists on intriguing and impactful projects. Let's start scrolling if you want to learn more about me and my work.">
+    <meta name="author" content="Setareh Nasihati Gilani">
+    <meta property="og:site_name" content="Setareh Nasihati Gilani" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:title" content="Setareh Nasihati Gilani" />
+
+    <!-- Mobile Specific Metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- CSS
+    ================================================== -->
+    <link rel="stylesheet" href="css/default.css">
+    <link rel="stylesheet" href="css/layout.css">
+    <link rel="stylesheet" href="css/media-queries.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <!-- Script
+    ================================================== -->
+    <script src="js/modernizr.js"></script>
+    <!-- Favicons
+     ================================================== -->
+    <link rel="shortcut icon" href="favicon.ico">
+</head>
+<body>
+    <!-- Header
+    ================================================== -->
+    <header id="home">
+        <nav id="nav-wrap">
+            <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+            <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+            <ul id="nav" class="nav">
+                <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
+                <li><a class="smoothscroll" href="#about">About</a></li>
+                <li><a class="smoothscroll" href="#education">Education</a></li>
+                <li><a class="smoothscroll" href="#publications">Publications</a></li>
+                <li><a class="smoothscroll" href="#work">Work</a></li>
+                <li><a class="smoothscroll" href="#skill">Skills</a></li>
+            </ul> <!-- end #nav -->
+        </nav> <!-- end #nav-wrap -->
+        <div class="row banner">
+            <div class="banner-text">
+                <h1 class="responsive-headline">Setareh Nasihati Gilani</h1>
+                <h3>
+                    I am a <span>computer scientist</span>, <span>software engineer</span>, and <span>technology enthusiast</span>.
+                    I am a PhD student in Department of Computer Science at University of Southern California.
+                    I strive for excellence and am driven by the desire to create technologies that solve real problems.
+                    Between my industrial and academic experiences, I have had the opportunity to work with many brilliant engineers and scientists on intriguing and impactful projects. <br/>Keep <a class="smoothscroll" href="#about">scrolling</a>
+                    to learn more <a class="smoothscroll" href="#about">about me and my work</a>.
+                </h3>
+                <hr />
+                <ul class="social">
+                    <!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>-->
+                    <!--<li><a href="#"><i class="fa fa-google-plus"></i></a></li>-->
+                    <li><a href="https://www.linkedin.com/in/snasihati/"><i class="fa fa-linkedin"></i></a></li>
+                    <!--<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>-->
+                    <li><a href="skype:setareh.abi?chat"><i class="fa fa-skype"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <p class="scrolldown">
+            <a class="smoothscroll" href="#about"><i class="icon-down-circle"></i></a>
+        </p>
+    </header> <!-- Header End -->
+    <!-- About Section
+    ================================================== -->
+    <section id="about">
+        <div class="row">
+            <div class="three columns">
+                <img class="profile-pic" src="images/profile2.jpg" alt="" />
+            </div>
+            <div class="nine columns main-col">
+                <h2>About Me</h2>
+
+                <p>
+                    I am a 5th year PhD student and a member of the <a href="http://nld.ict.usc.edu/group/">Natural Language Dialogue</a> research group at 
+					USC <a href="http://ict.usc.edu">Institute for Creative Technologies</a>, working under the supervision of Prof. <a href="http://www.ict.usc.edu/~traum">David Traum. </a>
+                    My research focus is multimodal feedback generation in dialogue, multimodal human-computer interaction, and natural language dialogue systems. 
+                </p>
+                
+                <div class="row">
+                    <div class="columns contact-details">
+                        <h2>Contact Details</h2>
+                        <p class="address">
+                            <span>Setareh Nasihati Gilani</span><br>
+                            <span>
+                                12015 Waterfront Dr,<br>
+                                Playa Vista, CA 90094 US
+                            </span><br>
+                            <!--<span>&#40;&#50;&#49;&#51;&#41; &#57;&#55;&#51; &#57;&#49;&#55;&#50;</span><br>-->
+                            <span>nasihati[at]usc[dot]edu</span>
+                        </p>
+                    </div>
+					<div class="columns download">
+                        <p>
+                            <a href="files/Setareh_Nasihati_Gilani_Resume.pdf" class="button"><i class="fa fa-download"></i>Download My Resume</a>
+                            <a href="files/Setareh_Nasihati_Gilani_CV.pdf" class="button"><i class="fa fa-download"></i>Download My CV</a>
+                        </p>
+                    </div>
+               
+
+            </div> <!-- end row -->
+        </div> <!-- end .main-col -->
+        </div>
+    </section> <!-- About Section End-->
+    <!-- Resume Section
+    ================================================== -->
+    <section id="education" class="resume">
+        <!-- Education
+        ----------------------------------------------- -->
+        <div class="row education">
+            <div class="three columns header-col">
+                <h1><span>Education</span></h1>
+            </div>
+            <div class="nine columns main-col">
+                <div class="row item">
+                    <div class="two columns">
+                        <img src="images/logos/usc.jpg" />
+                    </div>
+                    <div class="ten columns">
+                        <h3>University of Southern California</h3>
+                        <p class="info">
+                            Doctor of Philosophy in Computer Science <span>&bull;</span> <em class="date">Current</em>
+                        </p>
+                        <p>
+
+                        </p>
+                    </div>
+                </div> <!-- item end -->
+                <div class="row item">
+                    <div class="two columns">
+                        <img src="images/logos/usc.jpg" />
+                    </div>
+                    <div class="ten columns">
+                        <h3>University of Southern California</h3>
+                        <p class="info">
+                            Master of Science in Computer Science<span>&bull;</span> <em class="date">2018</em>
+                        </p>
+                        <p>
+
+                        </p>
+                    </div>
+                </div> <!-- item end -->
+                <div class="row item">
+                    <div class="two columns">
+                        <img src="images/logos/sharif.png" />
+                    </div>
+                    <div class="ten columns">
+                        <h3>Sharif University of Technology</h3>
+                        <p class="info">
+                            Bachelor of Science in Computer Engineering<span>&bull;</span> <em class="date">2014</em>
+                        </p>
+                        <p>
+
+                        </p>
+                    </div>
+                </div> <!-- item end -->
+            </div> <!-- main-col end -->
+        </div> <!-- End Education -->
+    </section>
+    <section id="publications" class="resume">
+        <!-- Publications
+        ----------------------------------------------- -->
+        <div class="row publications">
+            <div class="three columns header-col">
+                <h1><span>Publications</span></h1>
+            </div>
+            <div class="nine columns main-col">
+
+				<p>
+                    <span>
+                        Multimodal Learning for Identifying Opportunities for Empathetic Reponses
+                    </span>
+					Leili Tavabi, Kalin Stefanov, Setareh Nasihati Gilani, David Traum, Mohammad Soleymani.
+                    <br>To Appear: IVA 2019.  
+                </p>
+				
+				
+                <p>
+                    <span>
+                        Can a Signing Virtual Human Engage a Baby's Attention?
+                    </span>
+                    Setareh Nasihati Gilani, David Traum, Rachel Sortino, Grady Gallagher, Kailyn Aaron-Lozano, Cryss Padilla, Ari Shapiro, Jason Lamberton, Laura-Ann Petitto. 
+                    <br>IVA 2019.  <a href="publications/RAVE_IVA_2019.pdf">[PDF]</a>
+                </p>
+
+                <p>
+                    <span>
+                        Can a Virtual Human Facilitate Language Learning in a Young Baby?
+                    </span>
+                    Setareh Nasihati Gilani, David Traum, Rachel Sortino, Grady Gallagher, Kailyn Aaron-Lozano, Cryss Padilla, Ari Shapiro, Jason Lamberton, Laura-Ann Petitto. 
+                    <br>AAMAS 2018. <a href="publications/AAMAS_2019.pdf">[PDF]</a>
+                </p>
+
+                <p>
+                    <span>
+                        Developing a Virtual Reality Wildfire Simulation to Analyze Human Communication and Interaction with a Robotic Swarm During Emergencies
+                    </span>
+                    Patricia Chaffey, Ron Artstein, Kallirroi Georgila, Kimberly A. Pollardy, Setareh Nasihati Gilani, David M. Krum, David Nelson, Kevin Huynh, Alesia Gainer, Seyed Hossein Alavi, Rhys Yahata, David Traum
+                    <br>HLTCEM 2019. <a href="publications/HLTCEM_2019.pdf">[PDF]</a>
+                </p>
+
+                <p>
+                    <span>
+                        Hearing Babies Respond to Language's Patterning and Social Contingency with a Signing Avatar: Acquisition Insights
+                    </span>
+                    Laura-Ann Petitto, Rachel Sortino, Kailyn Aaron-Lozano, Grady Gallagher, Setareh Nasihati Gilani, David Traum, Arcangelo Merla, Chiara Filippini, Cryss Padilla.
+                    <br>SRCD 2018. <a href="publications/SRCD_2019.pdf">[PDF]</a>
+                </p>
+
+                <p>
+                    <span>
+                        Multimodal Dialogue Management for Multiparty Interaction with Infants
+                    </span>
+                    Setareh Nasihati Gilani, David Traum, Arcangelo Merla, Eugenia Hee, Zoey Walker, Barbara Manini, Grady Gallagher, Laura-Ann Petitto.
+                    <br>ICMI 2018, **Best Paper Award winner**. <a href="publications/ICMI_2018.pdf">[PDF]</a>
+                </p>
+                <p>
+                    <span>
+                        Teaching Language to Deaf Infants with a Robot and a Virtual Human
+                    </span>
+                    Brian Scassellati, Jake Brawer, Katherine Tsui, Setareh Nasihati Gilani, Melissa Malzkuhn, Barbara Manini, Adam Stone, Geo Kartheiser, Arcangelo Merla, Ari Shapiro, David Traum, Laura-Ann Petitto.
+                    <br>CHI 2018. <a href="publications/CHI_2018.pdf">[PDF]</a>
+                </p>
+
+                <p>
+                    <span>
+                        Artificial Intelligence to Predict Intimate Partner Violence Perpetration
+                    </span>
+                    Robin Petering, Mee-Young Um, Nazanin Alipourfard, Nazgol Tavabi, Rajni Kumari, Setareh Nasihati Gilani. 
+					<br> Chapter in "Artificial Intelligence and Social Work" Book, edited by Milind Tambe and Eric Rice, Cambridge University Press. 
+					<a href="publications/Cambridge_2018.pdf">[PDF]</a>
+                </p>
+                <p>
+                    <span>
+                        What Kind of Stories Should a Virtual Human Swap
+                    </span>
+                    Setareh Nasihati Gilani, Kraig Sheetz, Gale Lucas, David Traum. 
+					<br> AAMAS 2016 <a href="publications/AAMAS_2016.pdf">[PDF]</a>
+                </p>
+                <p>
+                    <span>
+                        What Kind of Stories Should a Virtual Human Swap
+                    </span>
+                    Setareh Nasihati Gilani, Kraig Sheetz, Gale Lucas, David Traum. 
+					<br> IVA 2016 <a href="publications/IVA_2016.pdf">[PDF]</a>
+                </p>
+                
+            </div> <!-- main-col end -->
+        </div> <!-- End publications -->
+    </section>
+    <!-- Work
+    ----------------------------------------------- -->
+    <section id="work" class="resume">
+        <div class="row work">
+            <div class="three columns header-col">
+                <h1><span>Work</span></h1>
+            </div>
+            <div class="nine columns main-col">
+    
+                <div class="row item">
+                    <div class="two columns">
+                        <img src="images/logos/paypal.svg.png" />
+                    </div>
+                    <div class="ten columns">
+                        <h3>PayPal</h3>
+                        <p class="info">
+                            Software Engineering Intern <span>&bull;</span> <em class="date">May 2017 - Aug 2017</em>
+                        </p>
+                        <p>
+                            Returning software engineering intern. Developed an email-routing system to improve customer service’s operation efficiency using text analytics and machine learning.
+                        </p>
+                    </div>
+                </div> <!-- item end -->
+                <div class="row item">
+                    <div class="two columns">
+                        <img src="images/logos/paypal.svg.png" />
+                    </div>
+                    <div class="ten columns">
+                        <h3>PayPal</h3>
+                        <p class="info">
+                            Software Engineering Intern <span>&bull;</span> <em class="date">May 2016 - Aug 2016</em>
+                        </p>
+                        <p>
+                            Developed an internally facing metadata resource management chatbot for engineers to expedite information gaining process.
+                        </p>
+                    </div>
+                </div> <!-- item end -->
+                <div class="row item">
+                    <div class="two columns">
+                        <img src="images/logos/beep.png" />
+                    </div>
+                    <div class="ten columns">
+                        <h3>Beep Company (Rahnema)</h3>
+                        <p class="info">
+                            Product Specialist and Mobile Application Developer<span>&bull;</span> <em class="date">Summer 2013</em>
+                        </p>
+                        <p>
+                            Co-founded a mobile application start-up; a trivia game based on Persian songs. Beep (Rahnema) is one of the major VAS providers and tech companies in Iran.
+
+                        </p>
+                    </div>
+                </div> <!-- item end -->
+                
+            </div> <!-- main-col end -->
+        </div> <!-- End Work -->
+    </section>
+    <section id="skill" class="resume">
+        <!-- Skills
+        ----------------------------------------------- -->
+        
+        <div class="row skill">
+            <div class="three columns header-col">
+                <h1><span>Skills</span></h1>
+            </div>
+            <div class="nine columns main-col">
+                <h1>Programming Languages</h1>
+                <div class="bars">
+                    <ul class="skills">
+                        <li><span class="bar-expand python"></span><em>Python</em></li>
+                        <li><span class="bar-expand java"></span><em>Java</em></li>
+                        <li><span class="bar-expand cpp"></span><em>C++</em></li>
+                        <li><span class="bar-expand sql"></span><em>SQL</em></li>
+                        <li><span class="bar-expand javascript"></span><em>JavaScript</em></li>
+                        <li><span class="bar-expand css"></span><em>CSS</em></li>
+                        <li><span class="bar-expand html"></span><em>HTML</em></li>
+                    </ul>
+                </div>
+            <h1>Technologies</h1>
+
+            <p><span>Platforms:</span> PSI, Android, Google Cloud API, AWS            </p>
+            <p><span>Dev Environments:</span> Visual Studio, IntelliJ,  Android Studio, Pycharm        </p>
+            <p><span>Operating Systems:</span> Windows, Ubuntu, Mac                    </p>
+            <p><span>Mobile Platforms:</span> Android, iOS                   </p>
+
+
+            </div>
+
+            </div>
+            
+        <!-- End skills -->
+
+    </section> <!-- Resume Section End-->
+    <!-- Testimonials Section
+    ================================================== -->
+    <section id="testimonials">
+        <div class="text-container">
+            <div class="row">
+                <div class="two columns header-col">
+                    <h1><span></span></h1>
+                </div>
+                <div class="ten columns flex-container">
+                    <div class="flexslider">
+                        <ul class="slides">
+                            <li>
+                                <blockquote>
+                                    <p>
+                                        We must accept finite disappointment, but never lose infinite hope.
+                                    </p>
+                                    <cite>Dr. Martin Luther King, Jr.</cite>
+                                </blockquote>
+                            </li>
+                            
+                            <li>
+                                <blockquote>
+                                    <p>
+                                        Your work is going to fill a large part of your life, and the only way to be truly satisfied is
+                                        to do what you believe is great work. And the only way to do great work is to love what you do.
+                                        If you haven't found it yet, keep looking. Don't settle.
+                                        <!--As with all matters of the heart, you'll know when you find it.-->
+                                    </p>
+                                    <cite>Steve Jobs</cite>
+                                </blockquote>
+                            </li> <!-- slide ends -->
+
+                        </ul>
+                    </div> <!-- div.flexslider ends -->
+                </div> <!-- div.flex-container ends -->
+            </div> <!-- row ends -->
+        </div>  <!-- text-container ends -->
+    </section> <!-- Testimonials Section End-->
+    <!-- footer
+    ================================================== -->
+    <footer>
+        <div class="row">
+            <div class="twelve columns">
+                <ul class="social-links">
+                    <li><a href="https://www.linkedin.com/in/snasihati/"><i class="fa fa-linkedin"></i></a></li>
+                    <!--<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>-->
+                    <li><a href="skype:setareh.abi?chat"><i class="fa fa-skype"></i></a></li>
+                </ul>
+                <ul class="copyright " style="">
+                    <li>Setareh Nasihati Gilani 2019</li>
+                </ul>
+            </div>
+            <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
+        </div>
+    </footer> <!-- Footer End-->
+    <!-- Java Script
+    ================================================== -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+    <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="js/jquery.flexslider.js"></script>
+    <script src="js/waypoints.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/magnific-popup.js"></script>
+    <script src="js/init.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-44999520-1', 'shahbazian.me');
+    ga('send', 'pageview');
+
+    </script>
+</body>
+</html>
